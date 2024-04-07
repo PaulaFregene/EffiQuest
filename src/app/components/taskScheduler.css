@@ -1,0 +1,45 @@
+.taskAdd{
+    color: #000;
+    text-align: center;
+    font-family: "Crimson";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 1%;
+    padding-top: 5%;
+}
+
+.taskList{
+
+}
+
+.taskScheduler{
+   background-color: #66A9e0;
+   border: 1px  #66A9e0 "solid";
+   border-radius: 7%;
+   width:500px;
+   min-height: 500px;
+   margin-left: 10%;
+}
+
+.taskitem{
+    display: flex;
+    font-family: "Crimson";
+    margin-top: 3%;
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.item1{
+    margin-right: 20%;
+    
+}
+
+.item2{
+    margin-right: 5%;
+}
+
+.li{
+    margin-left: auto;
+}
